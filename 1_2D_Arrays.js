@@ -1,6 +1,7 @@
 function solution(size) {
   // your code here
-  return "hello world"
+
+  return "hello world"; 
 }
 
 // Create a square 2D array of size size x size. Fill the array with 0's.

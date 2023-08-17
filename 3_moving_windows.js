@@ -1,7 +1,12 @@
 function solution(a, window_size) {
   // your code here
-  return "hello world"
+
+  return "hello world";
 }
+
+let result = solution();
+console.log(result)
+
 
 // Write a function that moves a "window" over an array, averaging the values under the window as it goes.
 
